@@ -1,0 +1,1 @@
+// Este arquivo contém o código JavaScript do site. Você pode adicionar funcionalidades interativas, manipulação do DOM e outras lógicas de programação aqui.
